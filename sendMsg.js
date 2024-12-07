@@ -6,7 +6,7 @@ function Sendwhatsapp(){
     var mobile = document.querySelector(".mobile").value;
     var tamt = document.querySelector(".tamt").value;
 alert(tamt);
-    var url = "https://wa.me/" + 9503144777 + "?text="
+    var url = "https://wa.me/" + 7745076426 + "?text="
         + "*Name :* " + name + "%0a"
         + "*Address :* " + address + "%0a"
         + "*Mobile:* " + mobile + "%0a"
